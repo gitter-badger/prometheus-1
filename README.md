@@ -1,2 +1,2 @@
 # prometheus
-New generation of hospital management systems
+Next generation of hospital management systems
